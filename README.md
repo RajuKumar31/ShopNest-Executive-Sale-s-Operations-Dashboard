@@ -82,15 +82,15 @@ Data Modeling
 Power Query (for data transformation)
 Data Visualization Best Practices
 
-**📂 Download Power BI File**
+## 📂 Download Power BI Dashboard
 
 Due to GitHub file size limitations, the full Power BI (.pbix) file is hosted externally:
-👉 Download Power BI Dashboard (.pbix)
+👉 **[Download Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1idhWtrxky8xwBaeVjOTnZovI-zo-EjAa/view)**
 
-**📄 Project Documentation**
+## 📄 Project Documentation
 
 Detailed explanation of data preparation, DAX measures, and business insights:
-👉 View Full Documentation (Word File)
+👉 **[View Full Documentation (Word File)](https://docs.google.com/document/d/1-PHOC2CHJvYm95ZLcVKOLKsrE94qb8HP/edit)**
 
 **💼 Skills Demonstrated**
 
