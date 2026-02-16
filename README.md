@@ -82,6 +82,9 @@ Data Modeling
 Power Query (for data transformation)
 Data Visualization Best Practices
 
+<img width="650" height="736" alt="Screenshot 2026-02-13 143010" src="https://github.com/user-attachments/assets/49b6aceb-36c2-4177-a081-cf6db4c622c6" />
+
+
 ## 📂 Download Power BI Dashboard
 
 Due to GitHub file size limitations, the full Power BI (.pbix) file is hosted externally:
